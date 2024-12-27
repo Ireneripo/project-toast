@@ -14,3 +14,6 @@ It is forbidden to use these contents in any sort of commercial endeavour, inclu
 • Selling your solution to students enrolled in the course
 
 Exemptions can be made, on a case-by-case basis. Contact Josh Comeau (support@joshwcomeau.com) for more information.
+
+## Credits
+Please see the [CREDITS.md](CREDITS.md) file for a list of contributors and attributions.
