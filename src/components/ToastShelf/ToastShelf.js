@@ -3,7 +3,7 @@ import React from "react";
 import Toast from "../Toast";
 import styles from "./ToastShelf.module.css";
 
-function ToastShelf({ id, toasts, handleDismiss }) {
+function ToastShelf({ toasts, handleDismiss }) {
   return (
     <ol className={styles.wrapper}>
       {toasts.map((toast) => (
