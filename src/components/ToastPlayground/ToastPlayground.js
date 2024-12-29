@@ -16,7 +16,7 @@ function ToastPlayground() {
     },
     {
       id: crypto.randomUUID(),
-      message: "Succesfully logged in!",
+      message: "Successfully logged in!",
       variant: "success",
     },
   ]);
